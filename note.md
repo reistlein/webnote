@@ -12,8 +12,8 @@ mvn -Dplugin=install help:describe
 >Note that you must give the plugin prefix as the argument to plugin, not it's artifact ID.
 
 
-> Configuration de camel 
-https://issues.apache.org/jira/browse/CAMEL-6562?jql=project%20%3D%20CAMEL%20AND%20text%20~%20%22restlet%20connection%22
+#### Configuration de camel 
+> https://issues.apache.org/jira/browse/CAMEL-6562?jql=project%20%3D%20CAMEL%20AND%20text%20~%20%22restlet%20connection%22
 
 
 
